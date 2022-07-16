@@ -1,6 +1,6 @@
 # unsw
 
-Roadmap for UNSW 3970 (Mathematics & Statistics).
+My 3970 (Mathematics & Statistics) journey.
 
 ## Roadmap
 
